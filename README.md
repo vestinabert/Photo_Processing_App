@@ -2,6 +2,7 @@
 # Table of contents
 1. [Project Description](#introduction)
 2. [Features](#features)
+3. [How to Run the Project](#installation)
   
 ## Project Description <a name="introduction"></a>
 This project is a photo processing application developed with Kotlin for Android. The app allows users to capture photos, display the taken pictures, and perform various actions such as sending the photo via email, and opening the camera using a voice command.
